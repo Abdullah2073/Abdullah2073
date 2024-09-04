@@ -1,3 +1,5 @@
+![logo](https://github.com/Abdullah2073/Abdullah2073/blob/main/Screenshot%20(90).png)
+
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
