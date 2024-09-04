@@ -4,7 +4,11 @@
 <h3 align="center">A passionate AI Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Computer Vision**
+🌱 I’m currently learning
+-  Machine Learning
+-  Deep Learning
+-  Natural Language Processing
+-  Computer Vision
 
 - 📫 How to reach me **abdullahzx2004@gmail.com**
 
